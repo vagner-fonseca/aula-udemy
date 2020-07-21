@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap": "4.3.1",
     "jquery": "3.5.1",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "-": "0.0.1",
